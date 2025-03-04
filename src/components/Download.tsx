@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom'
 import vs from '../assets/vscode.png'
 export default function Download() {
   return (
